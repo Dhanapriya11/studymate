@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+python-dotenv
+numpy
+pandas
+hf_xet
